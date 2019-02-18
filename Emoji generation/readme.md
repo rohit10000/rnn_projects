@@ -41,12 +41,12 @@ LSTM model is better over the baseline model(i.e. where we train the softmax on 
 
 <b><u>For Baseline Model:</u></b>
 
-***Input:*** <i>Not feeling happy.</i>
+<i><b>Input: <\b><\i> <i>Not feeling happy.</i>
 
-***Output:***(😄)
+<i><b>Output: <\b><\i>(😄)
 
 <b><u>For LSTM Model:</u></b>
 
-***Input:*** <i>Not feeling happy.</i>
+<i><b>Input: <\b><\i> <i>Not feeling happy.</i>
 
-***Output:***(😞)
+<i><b>Output: <\b><\i>(😞)
